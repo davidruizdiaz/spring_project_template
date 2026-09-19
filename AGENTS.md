@@ -14,11 +14,14 @@ Este repositorio es una **plantilla vacía para un proyecto nuevo de Spring Boot
 - No existe `CLAUDE.md`, `.cursorrules` ni otros archivos de instrucciones.
 - El proyecto necesita ser inicializado con dependencias y estructura de paquetes antes de desarrollo.
 
-## Directrices
+## Directrices Obligatorias
 
 - Todas las respuestas deben estar en **español**.
 - Responder de forma **corta y concisa**, sin información redundante.
 - El flujo de trabajo está guiado por **OpenSpec**.
+- **Uso obligatorio de skills en cada iteración de OpenSpec:** en cada ciclo se deben cargar y utilizar los skills correspondientes según la tarea:
+  - **Git/GitHub:** usar las skills `commit` y `gh-cli` para cualquier interacción con Git o GitHub.
+  - **Interfaces de usuario:** usar las skills `impeccable` y `web-design-guidelines` para diseñar, auditar o mejorar interfaces gráficas de usuario.
 
 ## Working in This Repo
 
